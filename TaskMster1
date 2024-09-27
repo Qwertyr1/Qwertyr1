@@ -1,0 +1,2 @@
+curl -X GET "https://api.example.com/v1/resource" \
+-H "Authorization: Bearer 7632056048:AAE97LuT-2kJvzgyXi5oH7kIRIP1Q-l7gmg"
